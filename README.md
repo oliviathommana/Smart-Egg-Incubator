@@ -8,7 +8,7 @@ A simple Python simulation of an automated egg incubator.
 - Humidity Monitoring
 - Heater Control
 - Cooler Control
-- Fan Control
+- Fan Control.
 - Humidifier Control
 
 ## Technologies
